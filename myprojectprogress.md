@@ -1,0 +1,4 @@
+# Topics of Interest
+
+I am near-certain that I will be developing a minecraft mod for my project. Depending on how many students will be working on the project with me, I'm going to decide the structure of the project's repository.
+If the project ends up being me with only a few other students, we will likely structure the project as a shared repository, with every developer committing their changes to the master repository. As Minecraft mods are relatively compartmentalized projects, I don't think it is likely that we will run into merging problems. Team members will need to communicate to ensure that they are not working on the same portions of the mod as each other.
